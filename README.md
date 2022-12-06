@@ -1,6 +1,7 @@
-# crud_local
+Reto 4 # NRC2290 - Grupo4
 
-A new Flutter project.
+![5f119de145ceba7cd65fef25919469cf](https://user-images.githubusercontent.com/113076117/205817568-4f449935-d379-45ec-b8b4-c31fac0c99f3.gif)
+
 
 ## Getting Started
 
